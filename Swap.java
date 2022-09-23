@@ -3,7 +3,7 @@ import java.io.*;
 import java.util.*;
 public class Swap{
 
-void main(){
+public static void main(){
 
     int a,b;
     Scanner sc=new Scanner(System.in);
